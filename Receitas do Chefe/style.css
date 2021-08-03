@@ -1,0 +1,40 @@
+.principal {
+	background: #444444;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 15px;
+	}
+
+.texto-principal {
+	text-align: center;
+}
+
+.introdução {
+	text-align: center;	
+}
+
+p {
+	text-align: center;
+}
+
+h1 {
+	padding-top: 15px;
+}
+
+#imagemreceitas {
+	width: 55%
+}
+
+.itens {
+	font-style: italic
+}
+
+.ingredientes {
+	display: table-cell;
+}
+
+.modopreparo {
+	display: table-cell;
+}
